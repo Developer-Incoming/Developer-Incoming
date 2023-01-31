@@ -1,7 +1,7 @@
 - 🫡 Howdy, I'm [DevIncoming](https://github.com/Developer-Incoming), and also known as Krazy.
 - 😐 I'm obsessed with Programming.
 - 💀 I am currently on my learning road, which must never end but with death.
-- 🤝 I’m looking to collaborate on weird projects.
+- 🤝 I’m looking to collaborate on odd projects.
 - 🤙 "How to reach" me, you ask: I am always available on Discord [Krazy#9895](https://discord.com/users/266512529746952192).
 
 <!---
