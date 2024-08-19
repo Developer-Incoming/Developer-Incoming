@@ -1,4 +1,4 @@
-- 🫡 Howdy, I'm [DevIncoming](https://github.com/Developer-Incoming), and also known as Krazy.
+- 👋 Howdy, I'm [DevIncoming](https://github.com/Developer-Incoming), and also known as Krazy.
 - 😐 Literal obsession with computers.
 - 💀 A student of knowledge, on the never ending learning road.
 - 🤝 Looking to collaborate on odd projects.
